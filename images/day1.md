@@ -3,7 +3,7 @@
 To recreate the picture shown below using only css.
 
 
-![user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_Gt1zODM](./images/user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_Gt1zODM.png)
+![user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_Gt1zODM](./user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_Gt1zODM.png)
 
 the code: 
 ``` html 
